@@ -59,6 +59,8 @@ about_content: | # this will include new lines to allow paragraphs
  - Machine Learning force fields
  - Heterogeneous catalysis
 
+ Here is my resume ([pdf](./files/resume.pdf)).
+ 
 content:
 #  - title: Projects # Title for the section
 #   layout: list # Type of content section (list/text)
