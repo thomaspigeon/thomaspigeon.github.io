@@ -101,6 +101,11 @@ content:
     content: |
       - Thomas Pigeon, Gabriel Stoltz, Manuel Corral-Valero, Ani Anciaux-Sedrakian, Maxime Moreaud, Tony Lelièvre, Pascal Raybaud, Computing Surface Reaction Rates by Adaptive Multilevel Splitting Combined with Machine Learning and Ab Initio Molecular Dynamics, ([arXiv:2303.05993v1](https://arxiv.org/abs/2303.05993v1))
 
+  - title: Distinctions
+    layout: text
+    content: |
+      - Poster prize, [International Conference on Theoretical Aspects of Catalysis](https://ictac2022.univ-lyon1.fr/en/pages/ictac-2022-home), (2022)
+        
 # Footer
 #footer_show_references: true
 # references_title: References on request (Override references text)
