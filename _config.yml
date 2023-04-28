@@ -83,9 +83,10 @@ content:
 
   - title: Talks and Conferences # Title for the section
     layout: text # Type of content section (list/text)
-    content: |
+    content: | 
       - January 2023: [Mixed-Gen Season 3 – Session 3: Soft matter and machine learning](https://www.cecam.org/workshop-details/1185), *Exploring machine learned reaction coordinates in conjunction with rare events sampling methods in ab-initio molecular dynamics for catalytic reactions* ([Poster](./files/poster.pdf))
       - January 2023: [LIA annual meeting](https://www.lia-uiuc.cnrs.fr/), *Rare event sampling methods and machine learning to study catalytic reaction mechanisms* ([slides](./files/PresentationWorkshop_Hauteluce.pdf))
+      - January 2023: IFP Energies nouvelles catalysis, biocatalysis and separation PhD student workshop, *Rare event sampling methods and machine learning to study catalytic reaction mechanisms* ([slides](./files/PresentationWorkshop_Hauteluce.pdf))
       - October 2022: [Machine Learning Meets Statistical Mechanics: Success and Future Challenges in Biosimulations](https://www.cecam.org/workshop-details/1153), *Exploring machine learned reaction coordinates in conjunction with rare events sampling methods in ab-initio molecular dynamics for catalytic reactions* ([Poster](./files/poster.pdf))
       - June 2022: [Chasing CVs using Machine Learning: from methods development to biophysical applications](https://www.cecam.org/workshop-details/1134), *Exploring machine learned reaction coordinates in conjunction with rare events sampling methods in ab-initio molecular dynamics for catalytic reactions* ([Poster](./files/poster.pdf))
       - June 2022: [International Conference on Theoretical Aspects of Catalysis](https://ictac2022.univ-lyon1.fr/en/pages/ictac-2022-home), *Exploring machine learned reaction coordinates in conjunction with rare events sampling methods in ab-initio molecular dynamics for catalytic reactions* ([Poster](./files/poster.pdf))
