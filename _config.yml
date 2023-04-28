@@ -90,10 +90,12 @@ content:
       - June 2022: [Chasing CVs using Machine Learning: from methods development to biophysical applications](https://www.cecam.org/workshop-details/1134), *Exploring machine learned reaction coordinates in conjunction with rare events sampling methods in ab-initio molecular dynamics for catalytic reactions* ([Poster](./files/poster.pdf))
       - June 2022: [International Conference on Theoretical Aspects of Catalysis](https://ictac2022.univ-lyon1.fr/en/pages/ictac-2022-home), *Exploring machine learned reaction coordinates in conjunction with rare events sampling methods in ab-initio molecular dynamics for catalytic reactions* ([Poster](./files/poster.pdf))
       - Mai 2022: Journée plénière GDR IAMAT, *Exploring machine learned reaction coordinates in conjunction with rare events sampling methods in ab-initio molecular dynamics for catalytic reactions* ([Poster](./files/poster.pdf))
+      - February 2021: ROAD4CAT chair annual meeting, *From boehmite to γ-alumina edges : revisiting the nature of sites and deciphering 1H NMR experiments* ([slides](./files/ROAD4CAT.pdf))
 
   - title: Publications
     layout: text 
     content: |
+      - A.T.F. Batista, T. Pigeon, J. Meyet, D. Wisser, M. Rivallan, D. Gajan, L. Catita, F. Diehl, A-S. Gay, C. Chizallet, A. Lesage, P. Raybaud, Structure, location, and spatial proximities of hydroxyls on γ-alumina crystallites by high-resolution solid-State NMR and DFT modeling: why edges hold the key, ACS Catal. (2023), 6536–6548 (doi:[https://doi.org/10.1021/acscatal.3c00495](https://doi.org/10.1021/acscatal.3c00495))
       - T. Pigeon, C. Chizallet, P. Raybaud. Revisiting γ-Alumina Surface Models through the Topotactic Transformation of Boehmite Surfaces. Journal of Catalysis, (2022), 405, (doi:[https://doi.org/10.1016/j.jcat.2021.11.011](https://doi.org/10.1016/j.jcat.2021.11.011))
       - F. Guégan, T. Pigeon, F. De Proft, V. Tognetti, L. Joubert, H. Chermette,P.W. Ayers, D. Luneau, C. Morell, Understanding Chemical Selectivity through Well Selected Excited States, Journal of Physical Chemistry A, (2020), 124 (doi:[10.1021/acs.jpca.9b09978](10.1021/acs.jpca.9b09978))
       - A.T.F. Batista, D. Wisser, T. Pigeon, D. Gajan, F. Diehl, M. Rivallan, L. Catita, A.S. Gay, A. Lesage, C. Chizallet, P. Raybaud, Beyond γ-Al2O3 crystallite surfaces: The hidden features of edges revealed by solid-state 1H NMR and DFT calculations, Journal of Catalysis,  (2019), 378, (doi:[https://doi.org/10.1016/j.jcat.2019.08.009](https://doi.org/10.1016/j.jcat.2019.08.009))
@@ -107,7 +109,7 @@ content:
     layout: text
     content: |
       - Poster prize, [International Conference on Theoretical Aspects of Catalysis](https://ictac2022.univ-lyon1.fr/en/pages/ictac-2022-home), (2022)
-        
+      - Presentation price, IFP Energies nouvelles catalysis, biocatalysis and separation divsion PhD workshop, (2022)    
 # Footer
 #footer_show_references: true
 # references_title: References on request (Override references text)
