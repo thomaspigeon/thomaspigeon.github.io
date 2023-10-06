@@ -105,11 +105,11 @@ content:
       - F. Guégan, T. Pigeon, F. De Proft, V. Tognetti, L. Joubert, H. Chermette,P.W. Ayers, D. Luneau, C. Morell, Understanding Chemical Selectivity through Well Selected Excited States, Journal of Physical Chemistry A, (2020), 124 (doi:[10.1021/acs.jpca.9b09978](10.1021/acs.jpca.9b09978))
       - A.T.F. Batista, D. Wisser, T. Pigeon, D. Gajan, F. Diehl, M. Rivallan, L. Catita, A.S. Gay, A. Lesage, C. Chizallet, P. Raybaud, Beyond γ-Al2O3 crystallite surfaces: The hidden features of edges revealed by solid-state 1H NMR and DFT calculations, Journal of Catalysis,  (2019), 378, (doi:[https://doi.org/10.1016/j.jcat.2019.08.009](https://doi.org/10.1016/j.jcat.2019.08.009))
 
-#  - title: Preprint
-#    layout: text
-#    content: |
-#      - Thomas Pigeon, Gabriel Stoltz, Manuel Corral-Valero, Ani Anciaux-Sedrakian, Maxime Moreaud, Tony Lelièvre, Pascal Raybaud, Computing Surface Reaction Rates by Adaptive Multilevel Splitting Combined with Machine Learning and Ab Initio Molecular Dynamics, ([arXiv:2303.05993v1](https://arxiv.org/abs/2303.05993v1))
-#
+  - title: Preprint
+    layout: text
+    content: |
+      - T. Lelièvre, T. Pigeon, G. Stoltz, W. Zhang, Analyzing multimodal probability measures with autoencoders, ([arXiv:2310.03492](https://arxiv.org/abs/2310.03492))
+
   - title: Distinctions
     layout: text
     content: |
