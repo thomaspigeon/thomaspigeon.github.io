@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Thomas Pigeon
-title: Third year PhD student
-email: thomas.pigeon@inria.fr
+title: Research engineer at IFP Energies Nouvelles
+email: thomas.pigeon@ifpen.fr
 website: https://thomaspigeon.github.io
 
 # Dark Mode (true/false/never)
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- I am a third year PhD student in theoretical chemistry under the supervision of Manuel Corral-Valero and [Pascal Raybaud](https://www.ifpenergiesnouvelles.fr/page/pascal-raybaud) at [IFPEN](https://www.ifpenergiesnouvelles.fr/) and [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) at [INRIA](https://team.inria.fr/matherials/). 
+ I finished my PhD in theoretical chemistry (2023) under the supervision of Manuel Corral-Valero and [Pascal Raybaud](https://www.ifpenergiesnouvelles.fr/page/pascal-raybaud) at [IFPEN](https://www.ifpenergiesnouvelles.fr/) and [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) at [INRIA](https://team.inria.fr/matherials/). 
  
  My thesis work mixes a rare events sampling method (Adaptive Multi-level Splitting, AMS) and machine learning to identify reaction coordinates. The rare events at stake are molecular dynamics transition between identified meta-stable states (reactant/products). The target is to use machine learning method to define a one dimensional reaction coordinate which will serve to sample reactive trajectories and compute their occurrence probability. The transition mechanism can then be studied by analyzing these trajectories and from their occurrence probability, the reaction rate constant can be computed. 
  
