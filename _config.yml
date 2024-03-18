@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/photo_peros_1.jpg
+about_profile_image: images/photo_perso_1.jpg
 about_content: | # this will include new lines to allow paragraphs
  I am a research engineer at IFP Energies nouvelles since december 2023. I did a PhD in theoretical chemistry (2023) under the supervision of Manuel Corral-Valero and [Pascal Raybaud](https://www.ifpenergiesnouvelles.fr/page/pascal-raybaud) at [IFPEN](https://www.ifpenergiesnouvelles.fr/) and [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) at [INRIA](https://team.inria.fr/matherials/). 
  
