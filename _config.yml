@@ -85,7 +85,7 @@ content:
     layout: text # Type of content section (list/text)
     content: |
       - July 2024: [ICC 2024](https://www.icc-lyon2024.fr/), *Computing catalytic reaction times and paths with machine learning and rare events sampling methods ([Slides](./files/Thomas_Pigeon_ICC2024.pdf))    
-      - April 2024: [Learning collective variables and coarse grained models](https://www.imsi.institute/activities/data-driven-materials-informatics/learning-collective-variables-and-coarse-grained-models/), *Estimating committor function using rare event sampling ([Poster](./files/poster_committor.pdf)
+      - April 2024: [Learning collective variables and coarse grained models](https://www.imsi.institute/activities/data-driven-materials-informatics/learning-collective-variables-and-coarse-grained-models/), *Estimating committor function using rare event sampling ([Poster](./files/poster_committor.pdf))
       - April 2024: [Machine Learning Force Fields](https://www.imsi.institute/activities/data-driven-materials-informatics/machine-learning-force-fields/), *Computing surface reaction rate using machine learning inter-atomic potential ([Slides](./files/MLFF_Pigeon_Thomas.pdf))
       - August 2023: [Europacat 2023](https://www.europacat2023.cz/), *Computing reaction times and paths with machine learning and rare event sampling methods* ([Slides](./files/Thomas_Pigeon_europacat.pdf))
       - August 2023: [ACS fall 2023](https://www.acs.org/meetings/acs-meetings/fall-2023.html), *Computing reaction times and paths with machine learning and rare event sampling methods* ([Slides](./files/Thomas_Pigeon_ACS_fall.pdf))
@@ -102,7 +102,7 @@ content:
   - title: Publications
     layout: text 
     content: |
-      - D. Gioffrè, P. FLorian, T. Pigeon, P. Raybaud, C. Chizallet, C. Copéret, Classification and Identification of Facet- and Edge-Specific γ-Al2O3 Surface Sites from 1H/27Al NMR Cross-Signatures and DFT Modeling, J. Am. Chem. Soc. (2025), 147, 8, 6934-6941 (doi:[https://doi.org/10.1021/jacs.4c17358](https://doi.org/10.1021/jacs.4c17358))
+      - D. Gioffrè, P. Florian, T. Pigeon, P. Raybaud, C. Chizallet, C. Copéret, Classification and Identification of Facet- and Edge-Specific γ-Al2O3 Surface Sites from 1H/27Al NMR Cross-Signatures and DFT Modeling, J. Am. Chem. Soc. (2025), 147, 8, 6934-6941 (doi:[https://doi.org/10.1021/jacs.4c17358](https://doi.org/10.1021/jacs.4c17358))
       - T. Lelièvre, T. Pigeon, G. Stoltz, W. Zhang, Analyzing multimodal probability measures with autoencoders, J. Phys. Chem. B, (2024), 128, 11, 2607–2631 (doi:[https://doi.org/10.1021/acs.jpcb.3c07075](https://doi.org/10.1021/acs.jpcb.3c07075))      
       - T. Pigeon, G. Stoltz, M. Corral-Valero, A. Anciaux-Sedrakian, M. Moreaud, T. Lelièvre, P. Raybaud, Computing Surface Reaction Rates by Adaptive Multilevel Splitting Combined with Machine Learning and Ab Initio Molecular Dynamics, J. Chem. Theory Comput. (2023)  (doi:[https://doi.org/10.1021/acs.jctc.3c00280](https://doi.org/10.1021/acs.jctc.3c00280))
       - A.T.F. Batista, T. Pigeon, J. Meyet, D. Wisser, M. Rivallan, D. Gajan, L. Catita, F. Diehl, A-S. Gay, C. Chizallet, A. Lesage, P. Raybaud, Structure, location, and spatial proximities of hydroxyls on γ-alumina crystallites by high-resolution solid-State NMR and DFT modeling: why edges hold the key, ACS Catal. (2023), 6536–6548 (doi:[https://doi.org/10.1021/acscatal.3c00495](https://doi.org/10.1021/acscatal.3c00495))
