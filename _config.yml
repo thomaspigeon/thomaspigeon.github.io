@@ -84,9 +84,9 @@ content:
   - title: Talks and Conferences # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - July 2024: [ICC 2024](https://www.icc-lyon2024.fr/), *Computing catalytic reaction times and paths with machine learning and rare events sampling methods ([Slides](./files/Thomas_Pigeon_ICC2024.pdf))    
-      - April 2024: [Learning collective variables and coarse grained models](https://www.imsi.institute/activities/data-driven-materials-informatics/learning-collective-variables-and-coarse-grained-models/), *Estimating committor function using rare event sampling ([Poster](./files/poster_committor.pdf))
-      - April 2024: [Machine Learning Force Fields](https://www.imsi.institute/activities/data-driven-materials-informatics/machine-learning-force-fields/), *Computing surface reaction rate using machine learning inter-atomic potential ([Slides](./files/MLFF_Pigeon_Thomas.pdf))
+      - July 2024: [ICC 2024](https://www.icc-lyon2024.fr/), *Computing catalytic reaction times and paths with machine learning and rare events sampling methods* ([Slides](./files/Thomas_Pigeon_ICC2024.pdf))
+      - April 2024: [Learning collective variables and coarse grained models](https://www.imsi.institute/activities/data-driven-materials-informatics/learning-collective-variables-and-coarse-grained-models/), *Estimating committor function using rare event sampling* ([Poster](./files/poster_committor.pdf))
+      - April 2024: [Machine Learning Force Fields](https://www.imsi.institute/activities/data-driven-materials-informatics/machine-learning-force-fields/), *Computing surface reaction rate using machine learning inter-atomic potential* ([Slides](./files/MLFF_Pigeon_Thomas.pdf))
       - August 2023: [Europacat 2023](https://www.europacat2023.cz/), *Computing reaction times and paths with machine learning and rare event sampling methods* ([Slides](./files/Thomas_Pigeon_europacat.pdf))
       - August 2023: [ACS fall 2023](https://www.acs.org/meetings/acs-meetings/fall-2023.html), *Computing reaction times and paths with machine learning and rare event sampling methods* ([Slides](./files/Thomas_Pigeon_ACS_fall.pdf))
       - June 2023: [14 international conference on Monte Carlo Methods and Applications (MCM2023)](https://mcm2023.sciencesconf.org/), *Adaptive multilevel splitting to machine learn committor function* ([Slides](./files/MCM_2023.pdf)) 
