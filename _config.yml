@@ -86,7 +86,7 @@ content:
   - title: Talks and Conferences # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - June 2025: [ICMS Workshop 2025](https://icms.ac.uk/activities/workshop/dimensionalityreductiontechniques/) , *Approximating committor functions: Objective functions and training data sampling* ([Slides](./files/ThomasPigeonICMS.pdf)       
+      - June 2025: [ICMS Workshop 2025](https://icms.ac.uk/activities/workshop/dimensionalityreductiontechniques/) , *Approximating committor functions: Objective functions and training data sampling* ([Slides](./files/ThomasPigeonICMS.pdf))       
       - July 2024: [ICC 2024](https://www.icc-lyon2024.fr/), *Computing catalytic reaction times and paths with machine learning and rare events sampling methods* ([Slides](./files/Thomas_Pigeon_ICC2024.pdf))
       - April 2024: [Learning collective variables and coarse grained models](https://www.imsi.institute/activities/data-driven-materials-informatics/learning-collective-variables-and-coarse-grained-models/), *Estimating committor function using rare event sampling* ([Poster](./files/poster_committor.pdf))
       - April 2024: [Machine Learning Force Fields](https://www.imsi.institute/activities/data-driven-materials-informatics/machine-learning-force-fields/), *Computing surface reaction rate using machine learning inter-atomic potential* ([Slides](./files/MLFF_Pigeon_Thomas.pdf))
