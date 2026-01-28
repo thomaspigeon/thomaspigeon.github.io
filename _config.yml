@@ -83,7 +83,6 @@ content:
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
 #        description: | # this will include new lines to allow paragraphs
 #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Talks and Conferences # Title for the section
     layout: text # Type of content section (list/text)
     content: |
@@ -115,7 +114,7 @@ content:
       - A.T.F. Batista, D. Wisser, T. Pigeon, D. Gajan, F. Diehl, M. Rivallan, L. Catita, A.S. Gay, A. Lesage, C. Chizallet, P. Raybaud, Beyond γ-Al2O3 crystallite surfaces: The hidden features of edges revealed by solid-state 1H NMR and DFT calculations, Journal of Catalysis,  (2019), 378, (doi:[https://doi.org/10.1016/j.jcat.2019.08.009](https://doi.org/10.1016/j.jcat.2019.08.009))
 
   - title: Preprint
-   layout: text
+    layout: text
     content: |
       - T. Pigeon, Manuel Corral Valero, Pascal Raybaud, Unbiased molecular dynamics for the direct determination of catalytic reaction times Paving the way beyond transition state theory ([arXiv:2511.17810](https://arxiv.org/abs/2511.17810))
 
