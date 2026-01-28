@@ -52,12 +52,15 @@ about_content: | # this will include new lines to allow paragraphs
  
  My thesis work mixes a rare events sampling method (Adaptive Multi-level Splitting, AMS) and machine learning to identify reaction coordinates. The rare events at stake are molecular dynamics transition between identified meta-stable states (reactant/products). The target is to use machine learning method to define a one dimensional reaction coordinate which will serve to sample reactive trajectories and compute their occurrence probability. The transition mechanism can then be studied by analyzing these trajectories and from their occurrence probability, the reaction rate constant can be computed. 
  
+
  Relevant topics include:
+ - Ab-initio molecular dynamics
  - Rare event sampling
  - Machine learned collective variables and reaction coordinates
- - Ab-initio molecular dynamics
- - Machine Learning force fields
+ - Machine Learning interatomic potentials
  - Heterogeneous catalysis
+ - Kinetic modelling 
+ - NeuralODE and related methodologies
 
  Here is my resume ([pdf](./files/resume.pdf)).
  
@@ -84,6 +87,7 @@ content:
   - title: Talks and Conferences # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      - June 2025: [ICMS Workshop 2025](https://icms.ac.uk/activities/workshop/dimensionalityreductiontechniques/) , *Approximating committor functions: Objective functions and training data sampling* ([Slides](./files/ThomasPigeonICMS.pdf)       
       - July 2024: [ICC 2024](https://www.icc-lyon2024.fr/), *Computing catalytic reaction times and paths with machine learning and rare events sampling methods* ([Slides](./files/Thomas_Pigeon_ICC2024.pdf))
       - April 2024: [Learning collective variables and coarse grained models](https://www.imsi.institute/activities/data-driven-materials-informatics/learning-collective-variables-and-coarse-grained-models/), *Estimating committor function using rare event sampling* ([Poster](./files/poster_committor.pdf))
       - April 2024: [Machine Learning Force Fields](https://www.imsi.institute/activities/data-driven-materials-informatics/machine-learning-force-fields/), *Computing surface reaction rate using machine learning inter-atomic potential* ([Slides](./files/MLFF_Pigeon_Thomas.pdf))
@@ -110,10 +114,10 @@ content:
       - F. Guégan, T. Pigeon, F. De Proft, V. Tognetti, L. Joubert, H. Chermette,P.W. Ayers, D. Luneau, C. Morell, Understanding Chemical Selectivity through Well Selected Excited States, Journal of Physical Chemistry A, (2020), 124 (doi:[10.1021/acs.jpca.9b09978](10.1021/acs.jpca.9b09978))
       - A.T.F. Batista, D. Wisser, T. Pigeon, D. Gajan, F. Diehl, M. Rivallan, L. Catita, A.S. Gay, A. Lesage, C. Chizallet, P. Raybaud, Beyond γ-Al2O3 crystallite surfaces: The hidden features of edges revealed by solid-state 1H NMR and DFT calculations, Journal of Catalysis,  (2019), 378, (doi:[https://doi.org/10.1016/j.jcat.2019.08.009](https://doi.org/10.1016/j.jcat.2019.08.009))
 
-#  - title: Preprint
-#   layout: text
-#    content: |
-#      - T. Lelièvre, T. Pigeon, G. Stoltz, W. Zhang, Analyzing multimodal probability measures with autoencoders, ([arXiv:2310.03492](https://arxiv.org/abs/2310.03492))
+  - title: Preprint
+   layout: text
+    content: |
+      - T. Pigeon, Manuel Corral Valero, Pascal Raybaud, Unbiased molecular dynamics for the direct determination of catalytic reaction times: paving the way beyond transition state theory ([arXiv:2511.17810](https://arxiv.org/abs/2511.17810))
 
   - title: Distinctions
     layout: text
