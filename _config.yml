@@ -105,6 +105,7 @@ content:
   - title: Publications
     layout: text 
     content: |
+      - T. Pigeon, Manuel Corral Valero, Pascal Raybaud, Unbiased molecular dynamics for the direct determination of catalytic reaction times Paving the way beyond transition state theory (doi:[https://doi.org/10.1016/j.jcat.2026.116826](https://doi.org/10.1016/j.jcat.2026.116826))
       - D. Gioffrè, P. Florian, T. Pigeon, P. Raybaud, C. Chizallet, C. Copéret, Classification and Identification of Facet- and Edge-Specific γ-Al2O3 Surface Sites from 1H/27Al NMR Cross-Signatures and DFT Modeling, J. Am. Chem. Soc. (2025), 147, 8, 6934-6941 (doi:[https://doi.org/10.1021/jacs.4c17358](https://doi.org/10.1021/jacs.4c17358))
       - T. Lelièvre, T. Pigeon, G. Stoltz, W. Zhang, Analyzing multimodal probability measures with autoencoders, J. Phys. Chem. B, (2024), 128, 11, 2607–2631 (doi:[https://doi.org/10.1021/acs.jpcb.3c07075](https://doi.org/10.1021/acs.jpcb.3c07075))      
       - T. Pigeon, G. Stoltz, M. Corral-Valero, A. Anciaux-Sedrakian, M. Moreaud, T. Lelièvre, P. Raybaud, Computing Surface Reaction Rates by Adaptive Multilevel Splitting Combined with Machine Learning and Ab Initio Molecular Dynamics, J. Chem. Theory Comput. (2023)  (doi:[https://doi.org/10.1021/acs.jctc.3c00280](https://doi.org/10.1021/acs.jctc.3c00280))
@@ -113,10 +114,10 @@ content:
       - F. Guégan, T. Pigeon, F. De Proft, V. Tognetti, L. Joubert, H. Chermette,P.W. Ayers, D. Luneau, C. Morell, Understanding Chemical Selectivity through Well Selected Excited States, Journal of Physical Chemistry A, (2020), 124 (doi:[10.1021/acs.jpca.9b09978](10.1021/acs.jpca.9b09978))
       - A.T.F. Batista, D. Wisser, T. Pigeon, D. Gajan, F. Diehl, M. Rivallan, L. Catita, A.S. Gay, A. Lesage, C. Chizallet, P. Raybaud, Beyond γ-Al2O3 crystallite surfaces: The hidden features of edges revealed by solid-state 1H NMR and DFT calculations, Journal of Catalysis,  (2019), 378, (doi:[https://doi.org/10.1016/j.jcat.2019.08.009](https://doi.org/10.1016/j.jcat.2019.08.009))
 
-  - title: Preprint
-    layout: text
-    content: |
-      - T. Pigeon, Manuel Corral Valero, Pascal Raybaud, Unbiased molecular dynamics for the direct determination of catalytic reaction times Paving the way beyond transition state theory ([arXiv:2511.17810](https://arxiv.org/abs/2511.17810))
+#  - title: Preprint
+#    layout: text
+#    content: |
+#      - T. Pigeon, Manuel Corral Valero, Pascal Raybaud, Unbiased molecular dynamics for the direct determination of catalytic reaction times Paving the way beyond transition state theory ([arXiv:2511.17810](https://arxiv.org/abs/2511.17810))
 
   - title: Distinctions
     layout: text
